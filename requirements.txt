@@ -11,7 +11,7 @@ audioread==2.1.8
 autopep8==1.5.1
 backcall==0.1.0
 beautifulsoup4==4.8.2
-bleach==3.1.0
+bleach==3.1.4
 boto3==1.14.12
 botocore==1.17.12
 brewer2mpl==1.4.1
